@@ -24,7 +24,7 @@ HP Elitebook 830 G6 running MacOS from Catalina (10.15.6) to Big Sur (11.5.2) an
 # Need patching
 - Internal Mic (Null)
 - Bluetooth (Null)
-- SK Hynix NVMe PC601 lacks support from manufactorer
+- SK Hynix NVMe PC601 incompatible - have no idea!
 
 # Common:
 - Airdrop recognize iPhone, but unable to send and receive
