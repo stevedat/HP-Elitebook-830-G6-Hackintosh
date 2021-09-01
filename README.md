@@ -29,5 +29,8 @@ HP Elitebook 830 G6 running MacOS from Catalina (10.15.6) to Big Sur (11.5.2) an
 # Common:
 - Airdrop recognize iPhone, but unable to send and receive
 
+# Get it work for you!
+Please ping me. 
+
 # Special thanks to @tookdes, I forked from his repo; made some changes to work on my laptop.
-His owrk: https://github.com/tookdes/HP-Elitebook-830-G6-Hackintosh
+His work: https://github.com/tookdes/HP-Elitebook-830-G6-Hackintosh
