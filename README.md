@@ -1,5 +1,6 @@
 # HP-Elitebook-830-G6-Hackintosh
-HP Elitebook 830 G6 running MacOS from Catalina (10.15.6) to Big Sur (11.5.2) and 12 Monterey Beta 5 (currently)
+HP Elitebook 830 G6 running MacOS from Catalina (10.15.6) to Big Sur (11.5.2 - currently use) and 12 Monterey Beta 5 (tested in 2 days)
+![Screen Shot 2021-09-02 at 20 24 17](https://user-images.githubusercontent.com/38579777/131946593-56ad4887-f62f-468c-a67e-192996965984.png)
 <img width="1424" alt="Monterey beta 5" src="https://user-images.githubusercontent.com/38579777/131598237-bde90b6c-eb77-4414-9b4a-54d9ed732cb6.png">
 
 
@@ -23,7 +24,7 @@ HP Elitebook 830 G6 running MacOS from Catalina (10.15.6) to Big Sur (11.5.2) an
 
 # Need patching
 - Internal Mic (Null)
-- Bluetooth (Null)
+- Bluetooth (worked on Cataliana, Big Sur still working on fixing)
 - SK Hynix NVMe PC601 incompatible - have no idea!
 
 # Common:
@@ -32,5 +33,6 @@ HP Elitebook 830 G6 running MacOS from Catalina (10.15.6) to Big Sur (11.5.2) an
 # Get it work for you!
 Please ping me. 
 
-# Special thanks to @tookdes, I forked from his repo; made some changes to work on my laptop.
+# Special thanks to @tookdes.
+I forked from his repo; made some changes to work on my laptop.
 His work: https://github.com/tookdes/HP-Elitebook-830-G6-Hackintosh
