@@ -31,6 +31,6 @@ HP Elitebook 830 G6 running MacOS from Catalina (10.15.1)
 - After installation, mount USB to copy EFI folder to place it into EFI of your Catalina EFI partition. If not, you will need to boot with USB in order to start the OSX.
 
 # Buy me a coffee! 
-It took me a motnh to work on this laptop to eventually release it for you. If it works for you and helps you save your time.
-Let buy me a coffe to cheer!
-                    buymeacoffee.com/stevedat                
+- It took me a motnh to work on this laptop to eventually release it for you. If it works for you and helps you save your time.
+- Let buy me a coffe to cheer!
+-       https://www.buymeacoffee.com/stevedat
