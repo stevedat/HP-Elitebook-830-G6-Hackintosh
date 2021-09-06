@@ -1,24 +1,21 @@
 # HP-Elitebook-830-G6-Hackintosh
-HP Elitebook 830 G6 running MacOS from Catalina (10.15.1)
+- Running MacOS from Catalina (10.15.1), it should work for other HP Elitebook 8xx Gx with relevant specs.
 ![Screen Shot 2021-09-06 at 13 33 04](https://user-images.githubusercontent.com/38579777/132171534-dbd9e851-36cd-40c1-9675-9a0c189e4e0f.png)
 
 # Basic Information
-- Bios Version: R70 Ver. 01.05.03 04/27/2020 (Other not tested)
 - Intel i5-8265U with UHD 620
 - 16 GB of RAM (2 slots 8/8)
 - Intel Wi-Fi AC9560
 
 # What Works
-- CPU and iGPU
 - Speakers / Headphones output, Mic input
-- Trackpad 
-- LAN / Ethernet
+- Trackpad
+- Cabled internet
 - WebCam
-- Wi-Fi (replace with airportitlwm after installation)
-
-# Need patching
-- Internal Mic
+- Wi-Fi
 - Bluetooth
+- Facetime, Imess, iCloud sync
+- Vault can be turned on for installing company's profiles to pass checking device to install intune portal (Outlook, Teams)
 
 # SMBIOS
 - I added it for you already. No change needed.
