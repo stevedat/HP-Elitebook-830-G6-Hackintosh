@@ -33,4 +33,5 @@ HP Elitebook 830 G6 running MacOS from Catalina (10.15.1)
 # Buy me a coffee! 
 - It took me a motnh to work on this laptop to eventually release it for you. If it works for you and helps you save your time.
 - Let buy me a coffe to cheer!
--       https://www.buymeacoffee.com/stevedat
+- https://www.buymeacoffee.com/stevedat
+- https://nhantien.momo.vn/github/50000
