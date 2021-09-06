@@ -20,9 +20,17 @@ HP Elitebook 830 G6 running MacOS from Catalina (10.15.1)
 - Internal Mic
 - Bluetooth
 
-# Special thanks to @tookdes.
-I forked from his repo; made some changes to work on my laptop.
+# SMBIOS
+- I added it for you already. No change needed.
 
-SMBIOS: MacBookPro 15,2 or 15,4
-Remove/ Add Kexts based on your need.It's just a basic to get booted and normal run Catalina, for better usage you need to make your own efforts.
-Thank you!
+# How to use:
+- Make bootable Catalina USB
+- Place my EFI into EFI partition on the USB
+- Bios settings: Fastboot, Vtx, Vtd, Wake on USB, Lan are switched OFF. Set to 64-512MB
+- Boot with USB and install. It will take 15-30mins depending on your hardware. 
+- After installation, mount USB to copy EFI folder to place it into EFI of your Catalina EFI partition. If not, you will need to boot with USB in order to start the OSX.
+
+# Buy me a coffee! 
+It took me a motnh to work on this laptop to eventually release it for you. If it works for you and helps you save your time.
+Let buy me a coffe to cheer!
+                    buymeacoffee.com/stevedat                
