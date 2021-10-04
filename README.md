@@ -1,6 +1,9 @@
 # HP-Elitebook-830-G6-Hackintosh
+Updated: 
+- Monterey Beta 8 (latest update)
 - Running MacOS from Catalina (10.15.1), it should work for other HP Elitebook 8xx Gx with relevant specs.
 ![Screen Shot 2021-09-06 at 13 33 04](https://user-images.githubusercontent.com/38579777/132171534-dbd9e851-36cd-40c1-9675-9a0c189e4e0f.png)
+<img width="746" alt="Screen Shot 2021-10-04 at 17 33 01" src="https://user-images.githubusercontent.com/38579777/135836647-c170b87a-7417-4683-b779-90cf42ba605e.png">
 
 # Basic Information
 - Intel i5-8265U with UHD 620
@@ -8,22 +11,13 @@
 - Intel Wi-Fi AC9560
 
 # What Works
-- Speakers / Headphones output, Mic input
-- Trackpad
+- Speakers / Headphones output, input
+- Trackpad gestures / Trackpad buttons
 - Cabled internet
 - WebCam
 - Wi-Fi
 - Bluetooth
-- Facetime, Imess, iCloud sync
-- Vault can be turned on for installing company's profiles to pass checking device to install intune portal (Outlook, Teams)
+- Facetime, Imess, iCloud
+- Vault ON
 
-# SMBIOS
-- I added it for you already. No change needed.
-
-# How to use:
-- Make bootable Catalina USB
-- Place my EFI into EFI partition on the USB
-- Bios settings: Fastboot, Vtx, Vtd, Wake on USB, Lan are switched OFF. Set to 64-512MB
-- Boot with USB and install. It will take 15-30mins depending on your hardware. 
-- After installation, mount USB to copy EFI folder to place it into EFI of your Catalina EFI partition. If not, you will need to boot with USB in order to start the OSX.
-- Post-installtion EFI, please ping me.
+Direct message me for EFI if you have similar laptop.
