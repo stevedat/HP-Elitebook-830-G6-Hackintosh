@@ -1,6 +1,6 @@
 # HP-Elitebook-830-G6-Hackintosh
 Updated: 
-- Monterey Beta 8 (latest update)
+- Monterey Beta 8 (latest update)- updated in Nov 2021: Official Monterey
 - Running MacOS from Catalina (10.15.1), it should work for other HP Elitebook 8xx Gx with relevant specs.
 ![Screen Shot 2021-09-06 at 13 33 04](https://user-images.githubusercontent.com/38579777/132171534-dbd9e851-36cd-40c1-9675-9a0c189e4e0f.png)
 <img width="746" alt="Screen Shot 2021-10-04 at 17 33 01" src="https://user-images.githubusercontent.com/38579777/135836647-c170b87a-7417-4683-b779-90cf42ba605e.png">
