@@ -1,9 +1,10 @@
 # HP-Elitebook-830-G6-Hackintosh
 Updated: 
-- Monterey Beta 8 (latest update)- updated in Nov 2021: Official Monterey
-- Running MacOS from Catalina (10.15.1), it should work for other HP Elitebook 8xx Gx with relevant specs.
-![Screen Shot 2021-09-06 at 13 33 04](https://user-images.githubusercontent.com/38579777/132171534-dbd9e851-36cd-40c1-9675-9a0c189e4e0f.png)
-<img width="746" alt="Screen Shot 2021-10-04 at 17 33 01" src="https://user-images.githubusercontent.com/38579777/135836647-c170b87a-7417-4683-b779-90cf42ba605e.png">
+- Updated in Nov 2021: Official Monterey 12.0.1
+<img width="677" alt="Screen Shot 2021-11-16 at 11 22 33" src="https://user-images.githubusercontent.com/38579777/141917898-50c5d7e1-98b3-477d-a719-758d8f035ca6.png">
+<img width="701" alt="Screen Shot 2021-11-16 at 11 26 20" src="https://user-images.githubusercontent.com/38579777/141919092-c996d7c8-394a-412c-9a21-c79c5a308201.png">
+<img width="701" alt="Screen Shot 2021-11-16 at 11 25 59" src="https://user-images.githubusercontent.com/38579777/141919142-074cb0e8-baba-4493-acbd-baa619169208.png">
+<img width="688" alt="Screen Shot 2021-11-16 at 11 24 52" src="https://user-images.githubusercontent.com/38579777/141918133-214451b8-e270-41e0-a441-fd8eea635ba1.png">
 
 # Basic Information
 - Intel i5-8265U with UHD 620
